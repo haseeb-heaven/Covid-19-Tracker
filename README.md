@@ -7,7 +7,7 @@
 which tracks data of more than 140 countries around the world and provid detailed data for **Active,Fatal** cases. 
 
 ## API & Sources
-Covid-19 Tracker uses [coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) and [CovidSharp SDK](https://github.com/ExpDev07/coronavirus-tracker-api)</br>
+Covid-19 Tracker uses [CoronaVirus Tracker API](https://github.com/ExpDev07/coronavirus-tracker-api) and [CovidSharp SDK](https://github.com/ExpDev07/coronavirus-tracker-api)</br>
 
 **Data sources** </br>
 [JHU](https://systems.jhu.edu/research/public-health/ncov/)  - Worldwide Data repository operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).</br>
@@ -37,5 +37,7 @@ CovidSharp
 RestSharp
 Newtonsoft.json
 
+## Download
+Download the application directly from here : [Covid-19 Tracker](https://bit.ly/Covid19App)
 
 Written and Maintained by Haseeb Mir (haseebmir.hm@gmail.com)
