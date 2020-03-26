@@ -1,10 +1,13 @@
 # Covid-19 Tracker
 [![GitHub stars](https://img.shields.io/github/stars/haseeb-heaven/Covid-19-Tracker)](https://github.com/Abdirahiim/covidtrackerapiwrapper/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/haseeb-heaven/Covid-19-Tracker)](https://github.com/Abdirahiim/covidtrackerapiwrapper/network/members)
-[![GitHub Commit](https://img.shields.io/badge/Commits-3-blue)](https://github.com/haseeb-heaven/Covid-19-Tracker/network/members)
+[![GitHub Commit](https://img.shields.io/badge/Commits-5-blue)](https://github.com/haseeb-heaven/Covid-19-Tracker/network/members)
 
-[Covid-19] (https://en.wikipedia.org/wiki/Coronavirus_disease_2019) is Corona virus disease tracker based on [CovidSharp](https://github.com/ExpDev07/coronavirus-tracker-api)
+[Covid-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) Tracker is Corona virus disease tracker based on [CovidSharp](https://github.com/ExpDev07/coronavirus-tracker-api)
 which tracks data of more than 140 countries around the world and provid detailed data for **Active,Fatal** cases. 
+
+## **_Your support is needed to keep this project alive, Feel free to donate._**
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/AzimD)
 
 ## API & Sources
 Covid-19 Tracker uses [CoronaVirus Tracker API](https://github.com/ExpDev07/coronavirus-tracker-api) and [CovidSharp SDK](https://github.com/ExpDev07/coronavirus-tracker-api)</br>
