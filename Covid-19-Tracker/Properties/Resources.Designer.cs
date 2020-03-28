@@ -63,9 +63,19 @@ namespace Covid_19_Tracker.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap app_bg {
+        internal static System.Drawing.Bitmap sWCqKDM_black_and_red_wallpaper_hd {
             get {
-                object obj = ResourceManager.GetObject("app_bg", resourceCulture);
+                object obj = ResourceManager.GetObject("sWCqKDM-black-and-red-wallpaper-hd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap virus_logo {
+            get {
+                object obj = ResourceManager.GetObject("virus_logo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

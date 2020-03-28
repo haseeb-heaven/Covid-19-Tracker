@@ -1,0 +1,15 @@
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\obj\Debug\Covid-19-Tracker.csprojAssemblyReference.cache
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\obj\Debug\Covid_19_Tracker.CovidForm.resources
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\obj\Debug\Covid_19_Tracker.Properties.Resources.resources
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\obj\Debug\Covid-19-Tracker.csproj.GenerateResource.cache
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\bin\Debug\Covid-19-Tracker.exe.config
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\bin\Debug\Covid-19-Tracker.exe
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\bin\Debug\Covid-19-Tracker.pdb
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\bin\Debug\CovidSharp.dll
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\bin\Debug\RestSharp.dll
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\bin\Debug\RestSharp.xml
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\obj\Debug\Covid-19-Tracker.csproj.CopyComplete
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\obj\Debug\Covid-19-Tracker.exe
+C:\Users\CRONOQUILL-DEVLOPER\Downloads\Covid-19-Tracker-master\Covid-19-Tracker\obj\Debug\Covid-19-Tracker.pdb
