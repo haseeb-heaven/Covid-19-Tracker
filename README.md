@@ -71,6 +71,8 @@ Credits to [CRONOQUILL](https://github.com/CRONOQUILL) for Designing whole UI an
 * Added new **information viewer** with _6_ countries at a time.</br>
 * Fixed minors **errors and exceptions** for no connections.</br>
 
+# Application tutorial on YouTube :
+[![Covid-19 Tutorial](https://img.youtube.com/vi/CFf3JKzsZcw/0.jpg)](https://www.youtube.com/watch?v=CFf3JKzsZcw)
 
 ## Download
 Download the application directly from here : [Covid-19 Tracker](https://bit.ly/C0v1dAppV1)</br>
