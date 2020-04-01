@@ -76,5 +76,3 @@ Credits to [CRONOQUILL](https://github.com/CRONOQUILL) for Designing whole UI an
 
 ## Download
 Download the application directly from here : [Covid-19 Tracker](https://bit.ly/C0v1dAppV1)</br>
-
-Written and Maintained by Haseeb Mir (haseebmir.hm@gmail.com)
