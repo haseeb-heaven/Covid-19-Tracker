@@ -1,4 +1,4 @@
-# Covid-19 Tracker [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/AzimD)
+# Covid-19 Tracker 
 [![GitHub stars](https://img.shields.io/github/stars/haseeb-heaven/Covid-19-Tracker)](https://github.com/Abdirahiim/covidtrackerapiwrapper/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/haseeb-heaven/Covid-19-Tracker)](https://github.com/Abdirahiim/covidtrackerapiwrapper/network/members)
 [![GitHub Commit](https://img.shields.io/badge/Commits-5-blue)](https://github.com/haseeb-heaven/Covid-19-Tracker/network/members)</br>
